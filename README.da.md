@@ -13,7 +13,7 @@ og blander sig ikke.
 
 <br>
 
-![sEdit med en kodefil i mørk tilstand](docs/sedit-dark.png)
+![sEdit med en kodefil i mørk tilstand](https://bmqhrjdmpsyzhdeohuod.supabase.co/storage/v1/object/public/sedit/sedit-dark.png)
 
 <sub>🇬🇧 [Read in English](README.md)</sub>
 
@@ -49,7 +49,7 @@ sEdit er åben, før du har sluppet musen.
 
 | Lys tilstand | Søg og erstat |
 | :---: | :---: |
-| ![sEdit i lys tilstand med en indstillingsfil åben](docs/sedit-light.png) | ![Linjen til søg og erstat](docs/sedit-find.png) |
+| ![sEdit i lys tilstand med en indstillingsfil åben](https://bmqhrjdmpsyzhdeohuod.supabase.co/storage/v1/object/public/sedit/sedit-light.png) | ![Linjen til søg og erstat](https://bmqhrjdmpsyzhdeohuod.supabase.co/storage/v1/object/public/sedit/sedit-find.png) |
 
 <sub>Billederne viser sEdit på engelsk. På en dansk computer er den på dansk.</sub>
 
@@ -130,7 +130,7 @@ og størrelse, sprog, og om du vil se linjenumre. Under **Genveje** kan du
 
 <div align="center">
 
-![Vinduet med indstillinger](docs/sedit-settings.png)
+![Vinduet med indstillinger](https://bmqhrjdmpsyzhdeohuod.supabase.co/storage/v1/object/public/sedit/sedit-settings.png)
 
 </div>
 

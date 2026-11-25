@@ -13,7 +13,7 @@ and stays out of your way.
 
 <br>
 
-![sEdit showing a code file in dark mode](docs/sedit-dark.png)
+![sEdit showing a code file in dark mode](https://bmqhrjdmpsyzhdeohuod.supabase.co/storage/v1/object/public/sedit/sedit-dark.png)
 
 <sub>🇩🇰 [Læs på dansk](README.da.md)</sub>
 
@@ -49,7 +49,7 @@ sEdit is open before you have let go of the mouse.
 
 | Light mode | Find and replace |
 | :---: | :---: |
-| ![sEdit in light mode with a settings file open](docs/sedit-light.png) | ![The find and replace bar](docs/sedit-find.png) |
+| ![sEdit in light mode with a settings file open](https://bmqhrjdmpsyzhdeohuod.supabase.co/storage/v1/object/public/sedit/sedit-light.png) | ![The find and replace bar](https://bmqhrjdmpsyzhdeohuod.supabase.co/storage/v1/object/public/sedit/sedit-find.png) |
 
 ## How to install
 
@@ -128,7 +128,7 @@ font and its size, the language, and whether you want line numbers. Under
 
 <div align="center">
 
-![The settings window](docs/sedit-settings.png)
+![The settings window](https://bmqhrjdmpsyzhdeohuod.supabase.co/storage/v1/object/public/sedit/sedit-settings.png)
 
 </div>
 
